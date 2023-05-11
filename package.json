@@ -1,6 +1,6 @@
 {
   "name": "project1",
-  "homepage": "https://govind2611.github.io/react-project-1",
+  "homepage": "https://govind2611.github.io/first-react-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-   "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
