@@ -1,5 +1,5 @@
 import React from 'react'
-/*react*/
+/***/
 const AboutMe = (props) => {
   return (
     <div className='about'>
